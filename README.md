@@ -2,12 +2,14 @@
 
 ## License
 
-MIT
+MIT Licensed
+
 Author: g023 (github.com/g023)
+
 url: https://github.com/g023/ai_cli
 
 
-A offline first focused production-ready agentic CLI application powered by local *Ollama* models. Just Intelligent CLI acts as a personal AI agent that can control your computer, build programs, create documents, and manage projects — all from your terminal. This is a work-in-progress so a good bet would be to run it in a container and isolate from your main environment, but I'm not your mom. *DEFAULT USES A 4b Qwen 3.5 MODEL*
+An offline first focused production-ready agentic CLI application powered by local *Ollama* models. Just Intelligent CLI acts as a personal AI agent that can control your computer, build programs, create documents, and manage projects — all from your terminal. This is a work-in-progress so a good bet would be to run it in a container and isolate from your main environment, but I'm not your mom. *DEFAULT USES A 4b Qwen 3.5 MODEL*
 
 **Agents are unpredictable so use with caution.**
 
